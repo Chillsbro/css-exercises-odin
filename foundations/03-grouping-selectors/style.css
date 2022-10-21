@@ -1,0 +1,16 @@
+.negative,
+.yellowbutt{
+font-family: Helvetica, sans-serif;
+font-size: 28px;
+}
+
+.negative{
+    background-color:black;
+    color:white;
+
+
+}
+.yellowbutt{
+    background-color: yellow;
+    color: black;
+}
