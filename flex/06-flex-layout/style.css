@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+ul{
+  margin: 0px;
+}
 body {
   height: 100vh;
   margin: 0;
@@ -42,7 +45,7 @@ input {
 }
 .header ul, .footer ul{
 list-style: none;
-padding: 0px;
+padding: 5px 16px;
 display:flex;
 flex-direction: row;
 gap: 10px;
@@ -60,6 +63,7 @@ a{
   justify-self:end;
   margin-top: auto;
   background-color:lightgray;
+  
   
 }
 .buttons{
